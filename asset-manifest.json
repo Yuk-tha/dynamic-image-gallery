@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/dynamic-image-gallery/static/css/main.0ad68750.css",
+    "main.js": "/dynamic-image-gallery/static/js/main.ab929ded.js",
+    "static/js/453.fae2dc4e.chunk.js": "/dynamic-image-gallery/static/js/453.fae2dc4e.chunk.js",
+    "static/media/Forest.jpg": "/dynamic-image-gallery/static/media/Forest.e6facda2a7a885a53fce.jpg",
+    "static/media/Snow.jpg": "/dynamic-image-gallery/static/media/Snow.da0d211053ade4acf04b.jpg",
+    "static/media/Mountain.jpg": "/dynamic-image-gallery/static/media/Mountain.fecfbe8466ca2784751f.jpg",
+    "static/media/Garden.jpg": "/dynamic-image-gallery/static/media/Garden.f438c177eaee658223a8.jpg",
+    "static/media/River.jpg": "/dynamic-image-gallery/static/media/River.302276be9d11b0736dd8.jpg",
+    "static/media/City.jpg": "/dynamic-image-gallery/static/media/City.358eb5e94e0fb333b3ae.jpg",
+    "static/media/Lake.jpg": "/dynamic-image-gallery/static/media/Lake.7084528d95d50955b753.jpg",
+    "static/media/Parrot.jpg": "/dynamic-image-gallery/static/media/Parrot.92764fc3661c4ca7c1fa.jpg",
+    "static/media/Beach.jpg": "/dynamic-image-gallery/static/media/Beach.d282f71326fe5a433c81.jpg",
+    "static/media/Road.jpg": "/dynamic-image-gallery/static/media/Road.f6f88c479b4d97640ad5.jpg",
+    "static/media/Puppy.jpg": "/dynamic-image-gallery/static/media/Puppy.5df38fab2286ece27300.jpg",
+    "static/media/Bridge.jpg": "/dynamic-image-gallery/static/media/Bridge.9f4418345e2f9c074b50.jpg",
+    "index.html": "/dynamic-image-gallery/index.html",
+    "main.0ad68750.css.map": "/dynamic-image-gallery/static/css/main.0ad68750.css.map",
+    "main.ab929ded.js.map": "/dynamic-image-gallery/static/js/main.ab929ded.js.map",
+    "453.fae2dc4e.chunk.js.map": "/dynamic-image-gallery/static/js/453.fae2dc4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ad68750.css",
+    "static/js/main.ab929ded.js"
+  ]
+}
